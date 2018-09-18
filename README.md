@@ -1,2 +1,9 @@
 # Numeracy-Modelling-Data-Management
-Used for a PhD course
+
+## Purpose
+
+Used as an example in a PhD Intro course
+
+-Example list
+-Another list
+
